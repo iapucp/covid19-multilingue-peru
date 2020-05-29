@@ -7,3 +7,43 @@ El Ministerio de Salud (MINSA) del Perú, ha publicado [material de coronavirus 
 Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - [covid19-datashare](https://github.com/neulab/covid19-datashare)
 - [TranslateForSG](https://translatefor.sg/)
+
+# Roadmap
+
+## Planeamiento (y Marketing)
+- Determinar plan de difusión del bot
+- Administrar página asociada al bot
+
+## UX 
+- Mantener comunicación constante con usuarios finales para validar las interfaces
+- Investigar referencias de otros bots/websites de traducción
+- Diseñar mockups del flujo de interacción
+
+
+### Chatbot
+- Mockup en botsociety.io
+- Team: Arturo, Juanjo
+
+### Website
+- Mockup
+- Team: 
+
+## FrontEnd 
+- Implementar interfaces
+- Consumir servicios del backend
+
+### Chatbot
+- Team: Juanjo
+
+### Website
+- Team: Fabricio
+
+## BackEnd 
+- Arquitectura serverless (AWS Lambda)
+- Base de datos (AWS RDS o DynamoDB)
+- Team: Howl, Robert
+
+## Data
+- Recolección de data (Web Scraping)
+- Almacenamiento de archivos csv (S3)
+- Team:
