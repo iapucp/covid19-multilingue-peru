@@ -13,6 +13,7 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 ## Planeamiento (y Marketing)
 - Determinar plan de difusión del bot
 - Administrar página asociada al bot
+- Team: 
 
 ## UX 
 - Mantener comunicación constante con usuarios finales para validar las interfaces
@@ -20,11 +21,11 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - Diseñar mockups del flujo de interacción
 
 
-### Chatbot
+#### Chatbot
 - Mockup en botsociety.io
 - Team: Arturo, Juanjo
 
-### Website
+#### Website
 - Mockup
 - Team: 
 
@@ -32,10 +33,10 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - Implementar interfaces
 - Consumir servicios del backend
 
-### Chatbot
+#### Chatbot
 - Team: Juanjo
 
-### Website
+#### Website
 - Team: Fabricio
 
 ## BackEnd 
