@@ -47,5 +47,5 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 
 ## Data
 - Recolección de data (Web Scraping)
-- Almacenamiento de archivos csv (S3)
+- Almacenamiento de archivos csv (GitHub, AWS S3)
 - Team:
