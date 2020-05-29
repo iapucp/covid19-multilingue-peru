@@ -40,6 +40,7 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - Team: Fabricio
 
 ## BackEnd 
+- Definir lógica para determinar ejemplos a traducir
 - Arquitectura serverless (AWS Lambda)
 - Base de datos (AWS RDS o DynamoDB)
 - Team: Howl, Robert
