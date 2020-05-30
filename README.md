@@ -9,43 +9,61 @@ Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - [TranslateForSG](https://translatefor.sg/)
 
 # Roadmap
+Todas las sesiones serán abiertas, para que todos los interesados puedan participar
 
 ## Planeamiento (y Marketing)
 - Determinar plan de difusión del bot
 - Administrar página asociada al bot
-- Team: 
+- Administrar lista de contactos y comunidades (y potenciales sinergias)
+  - Howl: MinCul
+  - Yudith: Quechua para todos
+  - Arturo: Traductores (shipibo-konibo)
+  - Joe: Traducciones (lenguas de la selva)
+- Team: Arturo (contactar a MinCul o hablantes de comunidades nativas). Todos → compartirlo
+
+## Product
+- Definir funcionalidades y alcances
+- Definir versiones para cada iteración
+- Llevar la visión de producto
+- Cada semana discutir propuestas con el resto del equipo 
+- Team: Arturo, Robert
+
+## Project Management
+- Ciclos de 2 semanas
 
 ## UX 
 - Mantener comunicación constante con usuarios finales para validar las interfaces
 - Investigar referencias de otros bots/websites de traducción
 - Diseñar mockups del flujo de interacción
-
+- Cada semana* discutir propuestas con el resto del equipo 
 
 #### Chatbot
 - Mockup en botsociety.io
-- Team: Arturo, Juanjo
+- Team: Arturo, Juanjo, 
 
 #### Website
 - Mockup
-- Team: 
+- Team: Sonia, Camila, Arturo, Joe
 
 ## FrontEnd 
 - Implementar interfaces
 - Consumir servicios del backend
 
 #### Chatbot
-- Team: Juanjo
+- Team: Juanjo, Daniel^2, Robert, Patrick, Rodrigo
 
-#### Website
-- Team: Fabricio
+#### Website * 2 (para traductores (generación) y para la gente (consumo))
+- Team: Fabricio, Yudith, Patrick, Robert, Joe
 
 ## BackEnd 
 - Definir lógica para determinar ejemplos a traducir
 - Arquitectura serverless (AWS Lambda)
 - Base de datos (AWS RDS o DynamoDB)
-- Team: Howl, Robert
+- Team: Howl, Robert, Rodrigo, Patrick
 
 ## Data
 - Recolección de data (Web Scraping)
-- Almacenamiento de archivos csv (GitHub, AWS S3)
-- Team:
+- Almacenamiento de archivos csv, txt (GitHub, AWS S3)
+- Definir lineamientos para la calidad de data
+- Definir criterios para seleccionar los datos para traducir
+- Team: Marco, Fabricio 
