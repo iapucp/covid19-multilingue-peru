@@ -1,0 +1,3 @@
+[submodule "covid19-multilingue-peru-backend"]
+	path = covid19-multilingue-peru-backend
+	url = https://github.com/iapucp/covid19-multilingue-peru-backend.git
