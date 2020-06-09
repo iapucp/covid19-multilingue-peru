@@ -7,6 +7,7 @@ El Ministerio de Salud (MINSA) del Perú, ha publicado [material de coronavirus 
 Esta iniciativa se basa en muchas otras a nivel mundial. Por ejemplo:
 - [covid19-datashare](https://github.com/neulab/covid19-datashare)
 - [TranslateForSG](https://translatefor.sg/)
+- [Translations for Africa (Univ. of Cambridge](https://www.cam.ac.uk/stories/Translations-for-Africa)
 
 # Roadmap
 Todas las sesiones serán abiertas, para que todos los interesados puedan participar
